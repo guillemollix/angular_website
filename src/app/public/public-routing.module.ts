@@ -6,7 +6,7 @@ import {MyProjectsComponent} from './my-projects/my-projects/my-projects.compone
 const routes: Routes = [{ path: 'home', component: HomeComponent }, { path: 'my-projects', component: MyProjectsComponent }];
 
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
+  imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
 })
 export class PublicRoutingModule {}
