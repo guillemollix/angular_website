@@ -1,0 +1,11 @@
+<div class="container">
+  <app-my-projects-project *ngFor="let project of projects"
+                           class="row my-4"
+                           [name]="project.name"
+                           [description]="project.description"
+                           [tags]="project.tags"
+                           [link]="project.link"
+                           [readme]="project.readme">
+  </app-my-projects-project>
+</div>
+
