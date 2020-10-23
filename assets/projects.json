@@ -1,0 +1,22 @@
+{
+  "projects" : [
+    { "name" :  "Ce site web!",
+      "description" : "Ce site est un projet personnel réalisé en Angular. Il s'agit de ma première application Angular.",
+      "tags" : ["Angular", "Web", "Front-end", "TypeScript", "HTML", "CSS", "Bootstrap"],
+      "link" : "https://github.com/guillemollix/angular_website",
+      "readme": "https://github.com/guillemollix/angular_website/blob/main/README.md"
+    },
+    { "name" :  "SimpleRedditBrowser",
+      "description" : "Application Android permettant de naviguer sur le site en utilisant l'API RSS. Utilisation de navigation entre Activity, entre Fragments. Programmation orientée événement.",
+      "tags" : ["Java", "Android", "Mobile", "Programmation Événementielle"],
+      "link" : "https://github.com/guillemollix/SimpleRedditBrower",
+      "readme": "https://github.com/guillemollix/SimpleRedditBrower/blob/master/README.md"
+    },
+    { "name" :  "Couettes&Cafés",
+      "description" : "Site web écrit en PHP dans le cadre d'un projet scolaire. Initiation au MVC. Ce n'est pas le plus beau site web mais la partie backend offre un système de réservation de chambres et de gestion des utilisateurs.",
+      "tags" : ["PHP", "Symphony", "MVC", "HTML", "CSS", "Bootstrap"],
+      "link" : "https://github.com/guillemollix/AgenceVoyage",
+      "readme": "https://github.com/guillemollix/AgenceVoyage/blob/master/README.md"
+    }
+  ]
+}
